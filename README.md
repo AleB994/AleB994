@@ -1,6 +1,8 @@
+## Bem-vindo(a) ao meu perfil 😁
+
  <div>
    <a href="https://github.com/AleB994">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AleB994&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AleB994&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleB994&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
@@ -12,7 +14,7 @@
  
 <br>
  
-### Pra contato me segue nas redes abaixo!
+### Para contato siga-me nas redes a baixo
  
 <div> 
  <a href="https://discord.gg/5DVhGKVf4h" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
